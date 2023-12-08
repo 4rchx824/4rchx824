@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Archie</h1>
-<h3 align="center">an aspiring Full Stack Developer from Myanmar</h3>
+<h3 align="center">An aspiring Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=4rchx824&label=Profile%20views&color=0e75b6&style=flat" alt="4rchx824" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=4rchx824" alt="4rchx824" /></a> </p>
+
 
 -   🔭 I’m currently working on [Rep Revolution](https://github.com/4rchx824/rep-revolution)
 
 -   🌱 I’m currently learning **create-t3-app**
 
--   👨‍💻 All of my projects are available at [TBC...](TBC...)
+-   👨‍💻 All of my projects are available at ***TBC...***
 
 -   ⚡ Fun fact **i sleep 12hrs on average**
 
@@ -23,3 +23,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=4rchx824&show_icons=true&locale=en&layout=compact" alt="4rchx824" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=4rchx824&show_icons=true&locale=en" alt="4rchx824" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=4rchx824" alt="4rchx824" /></a> </p>
