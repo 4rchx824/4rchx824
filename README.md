@@ -27,7 +27,7 @@
     />
 </p>
 
-<h3>Languages and Tools:</h3>
+<h3>Frameworks and Libraries:</h3>
 <table>
     <tr>
         <th>General Programming</th>
@@ -46,6 +46,29 @@
                     />
                 </a>
                 <a
+                    href="https://www.w3.org/html/"
+                    target="_blank"
+                    rel="noreferrer"
+                >
+                    <img
+                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+                        alt="html5"
+                        width="40"
+                        height="40"
+                    />
+                </a>
+                <a
+                    href="https://www.w3schools.com/css/"
+                    target="_blank"
+                    rel="noreferrer"
+                >
+                    <img
+                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+                        alt="css3"
+                        width="40"
+                        height="40"
+                    />
+                </a><a
                     href="https://www.typescriptlang.org/"
                     target="_blank"
                     rel="noreferrer"
@@ -104,29 +127,84 @@
         </td>
     </tr>
     <tr>
-        <th>Mobile App Development</th>
+        <th>Fullstack Frameworks</th>
         <td>
             <div>
+                <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+                    <img
+                        src="https://images.ctfassets.net/c63hsprlvlya/IacLLeOBR5WCvdCPqKuff/6860b5cc464c4f54703a2befa3f706b4/nextjs3.webp"
+                        alt="nextjs"
+                        width="80"
+                        height="40"
+                    />
+                </a>
                 <a
-                    href="https://reactnative.dev"
+                    href="https://create.t3.gg/"
                     target="_blank"
                     rel="noreferrer"
                 >
                     <img
-                        src="https://reactnative.dev/img/header_logo.svg"
-                        alt="reactnative"
+                        src="https://create.t3.gg/images/t3-light.svg"
+                        alt="t3"
                         width="40"
                         height="40"
                     />
                 </a>
                 <a
-                    href="https://developer.android.com"
+                    href="https://dotnet.microsoft.com/"
                     target="_blank"
                     rel="noreferrer"
                 >
                     <img
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
-                        alt="android"
+                        src="https://technostacks.com/wp-content/uploads/2021/01/aspnet_logo.png"
+                        alt="dotnet"
+                        width="50"
+                        height="40"
+                    />
+                </a>
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <th>Frontend Tools and Frameworks</th>
+        <td>
+            <div>
+                <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
+                    <img
+                        src="https://vitejs.dev/logo-with-shadow.png"
+                        alt="vite"
+                        width="40"
+                        height="40"
+                    />
+                </a>
+                <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+                    <img
+                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+                        alt="react"
+                        width="40"
+                        height="40"
+                    />
+                </a>
+                <a
+                    href="https://tailwindcss.com/"
+                    target="_blank"
+                    rel="noreferrer"
+                >
+                    <img
+                        src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
+                        alt="tailwind"
+                        width="40"
+                        height="40"
+                    />
+                </a>
+                <a
+                    href="https://getbootstrap.com"
+                    target="_blank"
+                    rel="noreferrer"
+                >
+                    <img
+                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+                        alt="bootstrap"
                         width="40"
                         height="40"
                     />
@@ -135,7 +213,50 @@
         </td>
     </tr>
     <tr>
-        <th>Database Management</th>
+        <th>Backend Frameworks</th>
+        <td>
+            <div>
+                <a
+                    href="https://expressjs.com"
+                    target="_blank"
+                    rel="noreferrer"
+                >
+                    <img
+                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+                        alt="express"
+                        width="40"
+                        height="40"
+                    />
+                </a>
+                <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+                    <img
+                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+                        alt="nodejs"
+                        width="40"
+                        height="40"
+                    />
+                </a>
+                <a href="https://spring.io/" target="_blank" rel="noreferrer">
+                    <img
+                        src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"
+                        alt="spring"
+                        width="40"
+                        height="40"
+                    />
+                </a>
+                <a href="https://trpc.io/" target="_blank" rel="noreferrer">
+                    <img
+                        src="https://trpc.io/img/logo.svg"
+                        alt="trpc"
+                        width="40"
+                        height="40"
+                    />
+                </a>
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <th>Database Storage and Management</th>
         <td>
             <div>
                 <a
@@ -253,61 +374,6 @@
         </td>
     </tr>
     <tr>
-        <th>Frontend Tools and Libraries</th>
-        <td>
-            <div>
-                <a
-                    href="https://tailwindcss.com/"
-                    target="_blank"
-                    rel="noreferrer"
-                >
-                    <img
-                        src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-                        alt="tailwind"
-                        width="40"
-                        height="40"
-                    />
-                </a>
-                <a
-                    href="https://www.w3schools.com/css/"
-                    target="_blank"
-                    rel="noreferrer"
-                >
-                    <img
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-                        alt="css3"
-                        width="40"
-                        height="40"
-                    />
-                </a>
-                <a
-                    href="https://www.w3.org/html/"
-                    target="_blank"
-                    rel="noreferrer"
-                >
-                    <img
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-                        alt="html5"
-                        width="40"
-                        height="40"
-                    />
-                </a>
-                <a
-                    href="https://getbootstrap.com"
-                    target="_blank"
-                    rel="noreferrer"
-                >
-                    <img
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-                        alt="bootstrap"
-                        width="40"
-                        height="40"
-                    />
-                </a>
-            </div>
-        </td>
-    </tr>
-    <tr>
         <th>Data Visualisation</th>
         <td>
             <div>
@@ -363,97 +429,30 @@
         </td>
     </tr>
     <tr>
-        <th>Backend Frameworks</th>
+        <th>Mobile App Development</th>
         <td>
             <div>
                 <a
-                    href="https://expressjs.com"
+                    href="https://reactnative.dev"
                     target="_blank"
                     rel="noreferrer"
                 >
                     <img
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-                        alt="express"
-                        width="40"
-                        height="40"
-                    />
-                </a>
-                <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-                    <img
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-                        alt="nodejs"
-                        width="40"
-                        height="40"
-                    />
-                </a>
-                <a href="https://spring.io/" target="_blank" rel="noreferrer">
-                    <img
-                        src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"
-                        alt="spring"
-                        width="40"
-                        height="40"
-                    />
-                </a>
-                <a href="https://trpc.io/" target="_blank" rel="noreferrer">
-                    <img
-                        src="https://trpc.io/img/logo.svg"
-                        alt="trpc"
-                        width="40"
-                        height="40"
-                    />
-                </a>
-            </div>
-        </td>
-    </tr>
-    <tr>
-        <th>Fullstack Frameworks</th>
-        <td>
-            <div>
-                <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-                    <img
-                        src="https://images.ctfassets.net/c63hsprlvlya/IacLLeOBR5WCvdCPqKuff/6860b5cc464c4f54703a2befa3f706b4/nextjs3.webp"
-                        alt="nextjs"
-                        width="80"
-                        height="40"
-                    />
-                </a>
-                <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-                    <img
-                        src="https://vitejs.dev/logo-with-shadow.png"
-                        alt="vite"
-                        width="40"
-                        height="40"
-                    />
-                </a>
-                <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-                    <img
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-                        alt="react"
+                        src="https://reactnative.dev/img/header_logo.svg"
+                        alt="reactnative"
                         width="40"
                         height="40"
                     />
                 </a>
                 <a
-                    href="https://create.t3.gg/"
+                    href="https://developer.android.com"
                     target="_blank"
                     rel="noreferrer"
                 >
                     <img
-                        src="https://create.t3.gg/images/t3-light.svg"
-                        alt="t3"
+                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
+                        alt="android"
                         width="40"
-                        height="40"
-                    />
-                </a>
-                <a
-                    href="https://dotnet.microsoft.com/"
-                    target="_blank"
-                    rel="noreferrer"
-                >
-                    <img
-                        src="https://technostacks.com/wp-content/uploads/2021/01/aspnet_logo.png"
-                        alt="dotnet"
-                        width="50"
                         height="40"
                     />
                 </a>
@@ -472,6 +471,14 @@
                         height="40"
                     />
                 </a>
+                <a href="https://postman.com" target="_blank" rel="noreferrer">
+                    <img
+                        src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
+                        alt="postman"
+                        width="40"
+                        height="40"
+                    />
+                </a>
                 <a
                     href="https://www.figma.com/"
                     target="_blank"
@@ -480,14 +487,6 @@
                     <img
                         src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
                         alt="figma"
-                        width="40"
-                        height="40"
-                    />
-                </a>
-                <a href="https://postman.com" target="_blank" rel="noreferrer">
-                    <img
-                        src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-                        alt="postman"
                         width="40"
                         height="40"
                     />
