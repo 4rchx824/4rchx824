@@ -8,9 +8,9 @@
     />
 </p>
 
--   🔭 I’m currently working on [Rep
-    Revolution](https://github.com/4rchx824/rep-revolution) 💪 - 🌱 I’m currently
-    learning **create-t3-app** - 👨‍💻 All of my projects are available at **_TBC..._**
+-   🔭 I’m currently working on [Rep Revolution](https://github.com/4rchx824/rep-revolution) 💪 
+- 🌱 I’m currently learning **create-t3-app** 
+- 👨‍💻 All of my projects are available at **_TBC..._**
 -   ⚡ Fun fact **i sleep 12hrs on average**
 
 <p>
