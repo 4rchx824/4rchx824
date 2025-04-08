@@ -8,8 +8,8 @@
     />
 </p>
 
--   🔭 I’m currently working on [Rep Revolution](https://github.com/4rchx824/rep-revolution) 💪 
-- 🌱 I’m currently learning **create-t3-app** 
+-   🔭 I’m currently working on my [Google UX Design](https://www.coursera.org/programs/singapore-polytechnic-school-of-soc-so64m/professional-certificates/google-ux-design) Certificate
+- 🌱 I’m currently learning **mongodb** 
 - 👨‍💻 All of my projects are available at **_TBC..._**
 -   ⚡ Fun fact **i sleep 12hrs on average**
 
