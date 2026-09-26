@@ -4,7 +4,7 @@
 <p align="center">
     <a href="https://4rchx824.vercel.app"
         ><img
-            src="https://img.shields.io/badge/Portfolio-D622EB?style=for-the-badge&logo=vercel&logoColor=white"
+            src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"
             alt="Portfolio"
     /></a>
     <a href="https://www.linkedin.com/in/yan-hein-latt/"
