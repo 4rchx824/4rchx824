@@ -1,517 +1,124 @@
 <h1 align="center">Hi 👋, I'm Archie</h1>
-<h3 align="center">An aspiring Fullstack Developer</h3>
+<h3 align="center">Computer Science student @ SMU · aspiring fullstack developer</h3>
 
-<p align="left">
+<p align="center">
+    <a href="https://4rchx824.vercel.app"
+        ><img
+            src="https://img.shields.io/badge/Portfolio-D622EB?style=for-the-badge&logo=vercel&logoColor=white"
+            alt="Portfolio"
+    /></a>
+    <a href="https://www.linkedin.com/in/yan-hein-latt/"
+        ><img
+            src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg=="
+            alt="LinkedIn"
+    /></a>
     <img
-        src="https://komarev.com/ghpvc/?username=4rchx824&label=Profile%20views&color=0e75b6&style=flat&color=D622EB"
-        alt="4rchx824"
+        src="https://komarev.com/ghpvc/?username=4rchx824&label=Profile%20views&color=D622EB&style=for-the-badge"
+        alt="Profile views"
     />
 </p>
 
--   🔭 I’m currently working on my [Google UX Design](https://www.coursera.org/programs/singapore-polytechnic-school-of-soc-so64m/professional-certificates/google-ux-design) Certificate
-- 🌱 I’m currently learning **mongodb** 
-- 👨‍💻 All of my projects are available at **_TBC..._**
--   ⚡ Fun fact **i sleep 12hrs on average**
+## About me
 
-<p>
-    <img
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=4rchx824&show_icons=true&locale=en&layout=compact&theme=omni"
-        alt="4rchx824"
-    />
-</p>
+- 🎓 Studying **Computer Science** at SMU
+- 🔭 Working on my [Google UX Design Certificate](https://www.coursera.org/professional-certificates/google-ux-design)
+- 🌱 Currently learning **MongoDB**
+- 👨‍💻 My projects are on my portfolio at **[4rchx824.vercel.app](https://4rchx824.vercel.app)**
+- ⚡ Fun fact: I sleep **12 hours** a night on average
 
-<p>
-    <img
-        src="https://github-readme-stats.vercel.app/api?username=4rchx824&show_icons=true&locale=en&theme=omni"
-        alt="4rchx824"
-    />
-</p>
+## 🛠️ Tech stack
 
-<h3>Frameworks and Libraries:</h3>
 <table>
     <tr>
-        <th>General Programming</th>
+        <td><b>Languages</b></td>
         <td>
-            <div>
-                <a
-                    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-                    target="_blank"
-                    rel="noreferrer"
-                >
-                    <img
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-                        alt="javascript"
-                        width="40"
-                        height="40"
-                    />
-                </a>
-                <a
-                    href="https://www.w3.org/html/"
-                    target="_blank"
-                    rel="noreferrer"
-                >
-                    <img
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-                        alt="html5"
-                        width="40"
-                        height="40"
-                    />
-                </a>
-                <a
-                    href="https://www.w3schools.com/css/"
-                    target="_blank"
-                    rel="noreferrer"
-                >
-                    <img
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-                        alt="css3"
-                        width="40"
-                        height="40"
-                    />
-                </a><a
-                    href="https://www.typescriptlang.org/"
-                    target="_blank"
-                    rel="noreferrer"
-                >
-                    <img
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-                        alt="typescript"
-                        width="40"
-                        height="40"
-                    />
-                </a>
-                <a href="https://www.java.com" target="_blank" rel="noreferrer">
-                    <img
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-                        alt="java"
-                        width="40"
-                        height="40"
-                    /> </a
-                ><a
-                    href="https://www.python.org"
-                    target="_blank"
-                    rel="noreferrer"
-                >
-                    <img
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-                        alt="python"
-                        width="40"
-                        height="40"
-                    />
-                </a>
-                <a
-                    href="https://www.w3schools.com/cpp/"
-                    target="_blank"
-                    rel="noreferrer"
-                >
-                    <img
-                        src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"
-                        alt="cplusplus"
-                        width="40"
-                        height="40"
-                    />
-                </a>
-                <a
-                    href="https://www.w3schools.com/cs/"
-                    target="_blank"
-                    rel="noreferrer"
-                >
-                    <img
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-                        alt="csharp"
-                        width="40"
-                        height="40"
-                    />
-                </a>
-            </div>
+            <img
+                src="https://skillicons.dev/icons?i=js,ts,html,css,java,py,cpp,cs"
+                alt="JavaScript, TypeScript, HTML, CSS, Java, Python, C++, C#"
+            />
+            <br />
+            <sub>+ pandas · Matplotlib · seaborn for data work</sub>
         </td>
     </tr>
     <tr>
-        <th>Fullstack Frameworks</th>
+        <td><b>Frontend</b></td>
         <td>
-            <div>
-                <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-                    <img
-                        src="https://images.ctfassets.net/c63hsprlvlya/IacLLeOBR5WCvdCPqKuff/6860b5cc464c4f54703a2befa3f706b4/nextjs3.webp"
-                        alt="nextjs"
-                        width="80"
-                        height="40"
-                    />
-                </a>
-                <a
-                    href="https://create.t3.gg/"
-                    target="_blank"
-                    rel="noreferrer"
-                >
-                    <img
-                        src="https://create.t3.gg/images/t3-light.svg"
-                        alt="t3"
-                        width="40"
-                        height="40"
-                    />
-                </a>
-                <a
-                    href="https://dotnet.microsoft.com/"
-                    target="_blank"
-                    rel="noreferrer"
-                >
-                    <img
-                        src="https://technostacks.com/wp-content/uploads/2021/01/aspnet_logo.png"
-                        alt="dotnet"
-                        width="50"
-                        height="40"
-                    />
-                </a>
-            </div>
+            <img
+                src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,bootstrap"
+                alt="React, Next.js, Vite, Tailwind CSS, Bootstrap"
+            />
+            <br />
+            <sub>+ Recharts</sub>
         </td>
     </tr>
     <tr>
-        <th>Frontend Tools and Frameworks</th>
+        <td><b>Backend</b></td>
         <td>
-            <div>
-                <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-                    <img
-                        src="https://vitejs.dev/logo-with-shadow.png"
-                        alt="vite"
-                        width="40"
-                        height="40"
-                    />
-                </a>
-                <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-                    <img
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-                        alt="react"
-                        width="40"
-                        height="40"
-                    />
-                </a>
-                <a
-                    href="https://tailwindcss.com/"
-                    target="_blank"
-                    rel="noreferrer"
-                >
-                    <img
-                        src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-                        alt="tailwind"
-                        width="40"
-                        height="40"
-                    />
-                </a>
-                <a
-                    href="https://getbootstrap.com"
-                    target="_blank"
-                    rel="noreferrer"
-                >
-                    <img
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-                        alt="bootstrap"
-                        width="40"
-                        height="40"
-                    />
-                </a>
-            </div>
+            <img
+                src="https://skillicons.dev/icons?i=nodejs,express,spring,dotnet"
+                alt="Node.js, Express, Spring, ASP.NET"
+            />
+            <br />
+            <sub>+ tRPC · T3 Stack</sub>
         </td>
     </tr>
     <tr>
-        <th>Backend Frameworks</th>
+        <td><b>Databases &amp; cloud</b></td>
         <td>
-            <div>
-                <a
-                    href="https://expressjs.com"
-                    target="_blank"
-                    rel="noreferrer"
-                >
-                    <img
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-                        alt="express"
-                        width="40"
-                        height="40"
-                    />
-                </a>
-                <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-                    <img
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-                        alt="nodejs"
-                        width="40"
-                        height="40"
-                    />
-                </a>
-                <a href="https://spring.io/" target="_blank" rel="noreferrer">
-                    <img
-                        src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"
-                        alt="spring"
-                        width="40"
-                        height="40"
-                    />
-                </a>
-                <a href="https://trpc.io/" target="_blank" rel="noreferrer">
-                    <img
-                        src="https://trpc.io/img/logo.svg"
-                        alt="trpc"
-                        width="40"
-                        height="40"
-                    />
-                </a>
-            </div>
+            <img
+                src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,prisma,planetscale,gcp"
+                alt="MySQL, PostgreSQL, MongoDB, Prisma, PlanetScale, Google Cloud"
+            />
+            <br />
+            <sub>+ CockroachDB · SQL Server · Neon</sub>
         </td>
     </tr>
     <tr>
-        <th>Database Storage and Management</th>
+        <td><b>Mobile</b></td>
         <td>
-            <div>
-                <a
-                    href="https://www.mysql.com/"
-                    target="_blank"
-                    rel="noreferrer"
-                >
-                    <img
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-                        alt="mysql"
-                        width="40"
-                        height="40"
-                    />
-                </a>
-                <a
-                    href="https://www.microsoft.com/en-us/sql-server"
-                    target="_blank"
-                    rel="noreferrer"
-                >
-                    <img
-                        src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"
-                        alt="mssql"
-                        width="40"
-                        height="40"
-                    />
-                </a>
-                <a
-                    href="https://www.cockroachlabs.com/product/cockroachdb/"
-                    target="_blank"
-                    rel="noreferrer"
-                >
-                    <img
-                        src="https://crl2020.imgix.net/img/stacked-logo-hr.png?auto=format,compress"
-                        alt="cockroachdb"
-                        width="40"
-                        height="40"
-                    />
-                </a>
-                <a
-                    href="https://www.mongodb.com/"
-                    target="_blank"
-                    rel="noreferrer"
-                >
-                    <img
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-                        alt="mongodb"
-                        width="40"
-                        height="40"
-                    />
-                </a>
-                <a
-                    href="https://www.postgresql.org"
-                    target="_blank"
-                    rel="noreferrer"
-                >
-                    <img
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-                        alt="postgresql"
-                        width="40"
-                        height="40"
-                    />
-                </a>
-                <a
-                    href="https://www.prisma.io/"
-                    target="_blank"
-                    rel="noreferrer"
-                >
-                    <img
-                        src="https://raw.githubusercontent.com/prisma/presskit/main/Assets/Prisma-DarkLogo.png"
-                        alt="prisma"
-                        width="80"
-                        height="25"
-                    />
-                </a>
-                <a href="https://neon.tech/" target="_blank" rel="noreferrer">
-                    <img
-                        src="https://neon.tech/favicon/favicon.png"
-                        alt="neon"
-                        width="40"
-                        height="40"
-                    />
-                </a>
-                <a
-                    href="https://cloud.google.com"
-                    target="_blank"
-                    rel="noreferrer"
-                >
-                    <img
-                        src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"
-                        alt="gcp"
-                        width="40"
-                        height="40"
-                    />
-                </a>
-                <a
-                    href="https://planetscale.com/"
-                    target="_blank"
-                    rel="noreferrer"
-                >
-                    <svg
-                        xmlns="http://www.w3.org/2000/svg"
-                        width="40"
-                        height="40"
-                        fill="none"
-                        viewBox="0 0 40 40"
-                        aria-label="pscale"
-                    >
-                        <path
-                            fill="black"
-                            d="M0 20C0 8.954 8.954 0 20 0c8.121 0 15.112 4.84 18.245 11.794l-26.45 26.45a19.98 19.98 0 0 1-3.225-1.83L24.984 20H20L5.858 34.142A19.937 19.937 0 0 1 0 20ZM39.999 20.006 20.006 40c11.04-.004 19.99-8.953 19.993-19.994Z"
-                        />
-                    </svg>
-                </a>
-            </div>
+            <img
+                src="https://skillicons.dev/icons?i=react,androidstudio"
+                alt="React Native, Android"
+            />
+            <br />
+            <sub>React Native · Android</sub>
         </td>
     </tr>
     <tr>
-        <th>Data Visualisation</th>
+        <td><b>Tools &amp; design</b></td>
         <td>
-            <div>
-                <a
-                    href="https://recharts.org/en-US"
-                    target="_blank"
-                    rel="noreferrer"
-                >
-                    <img
-                        src="https://avatars.githubusercontent.com/u/13690587?s=200&v=4"
-                        alt="recharts"
-                        width="40"
-                        height="40"
-                    />
-                </a>
-                <a
-                    href="https://matplotlib.org/"
-                    target="_blank"
-                    rel="noreferrer"
-                >
-                    <img
-                        src="https://pandas.pydata.org/static/img/favicon_white.ico"
-                        alt="matplotlib"
-                        width="40"
-                        height="40"
-                    />
-                </a>
-                <a
-                    href="https://pandas.pydata.org/"
-                    target="_blank"
-                    rel="noreferrer"
-                >
-                    <img
-                        src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
-                        alt="pandas"
-                        width="40"
-                        height="40"
-                    />
-                </a>
-                <a
-                    href="https://seaborn.pydata.org/"
-                    target="_blank"
-                    rel="noreferrer"
-                >
-                    <img
-                        src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"
-                        alt="seaborn"
-                        width="40"
-                        height="40"
-                    />
-                </a>
-            </div>
-        </td>
-    </tr>
-    <tr>
-        <th>Mobile App Development</th>
-        <td>
-            <div>
-                <a
-                    href="https://reactnative.dev"
-                    target="_blank"
-                    rel="noreferrer"
-                >
-                    <img
-                        src="https://reactnative.dev/img/header_logo.svg"
-                        alt="reactnative"
-                        width="40"
-                        height="40"
-                    />
-                </a>
-                <a
-                    href="https://developer.android.com"
-                    target="_blank"
-                    rel="noreferrer"
-                >
-                    <img
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
-                        alt="android"
-                        width="40"
-                        height="40"
-                    />
-                </a>
-            </div>
-        </td>
-    </tr>
-    <tr>
-        <th>Other Tools</th>
-        <td>
-            <div>
-                <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-                    <img
-                        src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-                        alt="git"
-                        width="40"
-                        height="40"
-                    />
-                </a>
-                <a href="https://postman.com" target="_blank" rel="noreferrer">
-                    <img
-                        src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-                        alt="postman"
-                        width="40"
-                        height="40"
-                    />
-                </a>
-                <a
-                    href="https://www.figma.com/"
-                    target="_blank"
-                    rel="noreferrer"
-                >
-                    <img
-                        src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-                        alt="figma"
-                        width="40"
-                        height="40"
-                    />
-                </a>
-                <a
-                    href="https://www.photoshop.com/en"
-                    target="_blank"
-                    rel="noreferrer"
-                >
-                    <img
-                        src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ps_appicon.svg"
-                        alt="photoshop"
-                        width="40"
-                        height="40"
-                    />
-                </a>
-            </div>
+            <img
+                src="https://skillicons.dev/icons?i=git,github,postman,figma,ps"
+                alt="Git, GitHub, Postman, Figma, Photoshop"
+            />
         </td>
     </tr>
 </table>
 
----
+## 📊 GitHub stats
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"
-    ><img
-        src="https://github-profile-trophy.vercel.app/?username=4rchx824&theme=radical"
-        alt="4rchx824"
-/></a>
+<!-- These cards are regenerated daily by .github/workflows/readme-cards.yml -->
+<p align="center">
+    <picture>
+        <source
+            media="(prefers-color-scheme: dark)"
+            srcset="./profile/stats-dark.svg"
+        />
+        <img
+            src="./profile/stats-light.svg"
+            alt="Archie's GitHub stats"
+            height="150"
+        />
+    </picture>
+    <picture>
+        <source
+            media="(prefers-color-scheme: dark)"
+            srcset="./profile/top-langs-dark.svg"
+        />
+        <img
+            src="./profile/top-langs-light.svg"
+            alt="Most used languages"
+            height="150"
+        />
+    </picture>
+</p>
