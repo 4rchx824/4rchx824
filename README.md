@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Archie</h1>
-<h3 align="center">Computer Science student @ SMU · aspiring fullstack developer</h3>
+<h3 align="center">Computer Science @ SMU · aspiring fullstack developer</h3>
 
 <p align="center">
     <a href="https://4rchx824.vercel.app"
